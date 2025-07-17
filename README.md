@@ -1,4 +1,4 @@
-#🌐 storagecloud-security-frontend
+🌐 storagecloud-security-frontend
 This project is the frontend for the Cloud Security Risk Assessment Platform. It is built with React and provides a user-friendly interface to interact with the backend API, visualize cloud security risks, and generate downloadable PDF reports.
 
 🛠 Key Features
